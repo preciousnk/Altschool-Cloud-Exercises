@@ -4,7 +4,7 @@ According to the instructions given by my tutor
 I setup ubuntu20.04LTS in my local machine
 I set up the private network to dhcp
 And i ran ifconfig immediately the machine ran up.
-the scrrenshots of everything all the processes i followed are attached below.
+the screenshots of everything all the processes i followed are attached below.
 
 ![vagrant init](./initializing%20vagrant.png "vagrant init")
 
